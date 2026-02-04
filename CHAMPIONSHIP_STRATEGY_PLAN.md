@@ -456,7 +456,7 @@ All fit comfortably on 4090 with room to spare.
 
 ```bash
 # 1. Clone and setup
-cd ~/clawd/mentius-botgames
+cd ~/mentius-botgames
 pip install -r requirements.txt
 
 # 2. Scrape opponent intel
