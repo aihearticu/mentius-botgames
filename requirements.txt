@@ -1,0 +1,11 @@
+# Core dependencies
+requests>=2.28.0
+
+# For opponent intelligence scraping (optional)
+playwright>=1.40.0
+
+# For TAO model training (optional - install in venv)
+# torch>=2.0.0
+
+# Dev/Testing
+pytest>=7.0.0
